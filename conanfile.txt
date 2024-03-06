@@ -7,8 +7,5 @@ clipp/1.2.3
 CMakeDeps
 CMakeToolchain
 
-[layout]
-cmake_layout
-
 [options]
 pkg/openssl:shared=False
